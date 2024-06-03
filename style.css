@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+#on{
+    color: green;
+    position: relative;
+    top: 50px;
+}
+#off{
+    color:red;
+    position: relative;
+    top: 50px;
+}
